@@ -12,28 +12,28 @@ Prerequisite that you need
     3. npx
 
 link to download visual studio code is below
-# https://code.visualstudio.com/Download
+https://code.visualstudio.com/Download
 
 Download the recommended version of node js the link to install is below
 
-# https://nodejs.org/en
+https://nodejs.org/en
 
 Commands
 
 Open the terminal window and give below commands to check if everything is installed properly
 
-# node -v
-# npm -v
-# npx -v
+node -v
+npm -v
+npx -v
 
 If so far everything is going fine then npm -v command is should show you the versions of the packages you installed. Now you are all set to create your reat app.
 
 Give below commands the create the app
 
-# npm install -g create-react-app
-# npx create-react-app CustomName
-# cd CustomName
-# npm start
+npm install -g create-react-app
+npx create-react-app CustomName
+cd CustomName
+npm start
 
 You will see "webpack compiled successfully" on your terminal window that means you succeeded at creating your first react app and also run it on brouser. By dfault the app runs on port 3000. 
 Now you wont be able to type anything in command line but dont worry thats happening as its running the code on web. 
